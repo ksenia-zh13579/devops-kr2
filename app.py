@@ -1,3 +1,5 @@
+# KR2: Zhuzhleva
+
 import os
 import socket
 
